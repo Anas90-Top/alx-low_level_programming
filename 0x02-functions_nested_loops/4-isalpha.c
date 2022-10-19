@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * _isalpha - compares the input argutment and checks if is alphabetic

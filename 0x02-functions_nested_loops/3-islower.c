@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * _islower - compares if an input character is lowercase
  * @c: Input character to be compared received as int
