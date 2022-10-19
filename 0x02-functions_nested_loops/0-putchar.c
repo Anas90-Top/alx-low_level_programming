@@ -1,20 +1,24 @@
-#include "holberton.h"
+#include  "main.h"
 
 /**
- * main - prints "Holberton"
+ * main - Write a program that prints _putchar, followed by a new line
  *
- * Return: 0 and the message on the stdout, on success
+ * File: 0-putchar.c
+ * Auth: print
+ *
+ * Return: Always 0
  */
-
 int main(void)
 {
-        char *message = "Holberton";
-        int i = 0;
+ _putchar('_');
+ _putchar('p');
+ _putchar('u');
+ _putchar('t');
+ _putchar('c');
+ _putchar('h');
+ _putchar('a');
+ _putchar('r');
+ _putchar('\n');
 
-        do {
-                _putchar(message[i++]);
-        } while (message[i] != '\0');
-        _putchar('\n');
-
-        return (0);
+ return (0);
 }
