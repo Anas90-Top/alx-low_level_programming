@@ -11,7 +11,3 @@ int _isupper(int c)
 {
 	return (c >= 65 && c <= 90);
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> 2562eccb34dec5f20d132baccf40203bf3c47d6a
